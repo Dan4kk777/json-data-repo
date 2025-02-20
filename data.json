@@ -9,54 +9,54 @@
     "id": 2,
     "title": "США",
     "description": "Столица - Вашингтон. Население - 144100000",
-    "flagUrl": "https://flagcdn.com/w320/ru.png"
+    "flagUrl": "https://flagcdn.com/w320/us.png"
   },
   {
     "id": 3,
     "title": "Германия",
     "description": "Столица - Берлин. Население - 144100000",
-    "flagUrl": "https://flagcdn.com/w320/ru.png"
+    "flagUrl": "https://flagcdn.com/w320/de.png"
   },
   {
     "id": 4,
     "title": "Франция",
     "description": "Столица - Париж. Население - 144100000",
-    "flagUrl": "https://flagcdn.com/w320/ru.png"
+    "flagUrl": "https://flagcdn.com/w320/fr.png"
   },
   {
     "id": 5,
     "title": "Китай",
     "description": "Столица - Пекин. Население - 144100000",
-    "flagUrl": "https://flagcdn.com/w320/ru.png"
+    "flagUrl": "https://flagcdn.com/w320/cn.png"
   },
   {
     "id": 6,
     "title": "Индия",
     "description": "Столица - Нью-Дели. Население - 144100000",
-    "flagUrl": "https://flagcdn.com/w320/ru.png"
+    "flagUrl": "https://flagcdn.com/w320/in.png"
   },
   {
     "id": 7,
     "title": "Бразилия",
     "description": "Столица - Бразилиа. Население - 144100000",
-    "flagUrl": "https://flagcdn.com/w320/ru.png"
+    "flagUrl": "https://flagcdn.com/w320/br.png"
   },
   {
     "id": 8,
     "title": "Япония",
     "description": "Столица - Токио. Население - 144100000",
-    "flagUrl": "https://flagcdn.com/w320/ru.png"
+    "flagUrl": "https://flagcdn.com/w320/jp.png"
   },
   {
     "id": 9,
     "title": "Канада",
     "description": "Столица - Оттава. Население - 144100000",
-    "flagUrl": "https://flagcdn.com/w320/ru.png"
+    "flagUrl": "https://flagcdn.com/w320/ca.png"
   },
   {
     "id": 10,
     "title": "Австралия",
     "description": "Столица - Канберра. Население - 144100000",
-    "flagUrl": "https://flagcdn.com/w320/ru.png"
+    "flagUrl": "https://flagcdn.com/w320/au.png"
   },
 ]
